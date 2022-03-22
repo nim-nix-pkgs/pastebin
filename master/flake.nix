@@ -9,7 +9,7 @@
   
   inputs.src-pastebin-master.flake = false;
   inputs.src-pastebin-master.owner = "achesak";
-  inputs.src-pastebin-master.ref   = "refs/heads/master";
+  inputs.src-pastebin-master.ref   = "master";
   inputs.src-pastebin-master.repo  = "nim-pastebin";
   inputs.src-pastebin-master.type  = "github";
   
