@@ -11,7 +11,6 @@
   inputs.src-pastebin-master.ref   = "refs/heads/master";
   inputs.src-pastebin-master.owner = "achesak";
   inputs.src-pastebin-master.repo  = "nim-pastebin";
-  inputs.src-pastebin-master.dir   = "";
   inputs.src-pastebin-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
